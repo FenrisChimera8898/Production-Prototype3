@@ -159,10 +159,6 @@
 		{
 			"Name": "EnhancedInput",
 			"Enabled": true
-		},
-		{
-			"Name": "EpicLeaderboard",
-			"Enabled": true
 		}
 	]
 }
